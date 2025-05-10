@@ -1,3 +1,5 @@
+# Chinese Checkers 
+
 This project is an implementation of Chinese Checkers, a strategy board game, developed using Python and Pygame. The game allows you to play either solo against the Computer or with friends in a multi-player setup. It includes a user-friendly graphical interface and advanced features like game saving and loading.
 
 Features
