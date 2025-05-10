@@ -22,12 +22,12 @@ This project is an implementation of Chinese Checkers, a strategy board game, de
 ## Setup:
 ### Install dependencies:
 Before running the game, make sure to install the required dependencies:
-<pre>'''pip install -r requirements.txt'''</pre>
+<pre>pip install -r requirements.txt</pre>
 ### Running the Game:
 To start the game, simply run:
-<pre>'''python main.py'''</pre>
+<pre>python main.py</pre>
 You can also pass the --help flag to see the game rules and usage:
-<pre>'''python main.py --help'''</pre>
+<pre>python main.py --help</pre>
 
 ## Usage:
 When the game starts, you’ll be able to:
